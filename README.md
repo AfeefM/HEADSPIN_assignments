@@ -7,16 +7,15 @@
 
 *    check python version installed    
 
-        python --version    
-    
-        Python 3.6.3    
+    python --version
+    Python 3.6.3
     
 *    ensure run the files using command line in windows *command prompt*     
 
 *    navigate to files directory using *cd*command eg:    
 
-        cd Desktop    
-    
+    cd Desktop
+        
 *    run the python program using commands eg:    
 
-        Question1.py    
+    Question1.py
