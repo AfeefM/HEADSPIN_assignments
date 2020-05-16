@@ -8,6 +8,7 @@
 *check python version installed
 
     python --version
+    Python 3.6.3
     
 *ensure run the files using command line in windows *command prompt* 
 
