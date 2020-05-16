@@ -3,19 +3,20 @@
 ## How to run python program
 
 
-*install python on your pc
+*    install python on your pc    
 
-*check python version installed
+*    check python version installed    
 
-    python --version
-    Python 3.6.3
+        python --version    
     
-*ensure run the files using command line in windows *command prompt* 
-
-*navigate to files directory using *cd*command eg:
-
-    cd Desktop
+        Python 3.6.3    
     
-*run the python program using commands eg:
+*    ensure run the files using command line in windows *command prompt*     
 
-    Question1.py
+*    navigate to files directory using *cd*command eg:    
+
+        cd Desktop    
+    
+*    run the python program using commands eg:    
+
+        Question1.py    
